@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dusk1e! 👋
 
-<!--
-**Dusk1e/Dusk1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building & Exploring the Future of Tech
 
-Here are some ideas to get you started:
+I focus on creating efficient solutions and exploring how modern tools can enhance the development process. I'm passionate about learning new technologies and building projects from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Interests
+- 🐍 **Python & Automation:** Crafting scripts that work.
+- 🤖 **AI Integration:** Leveraging intelligence for better workflows.
+- 🌐 **Modern Development:** Exploring the next generation of building tools.
+
+---
+
+### 📈 GitHub Insights
+![Dusk1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dusk1e&show_icons=true&theme=dark&hide_border=true)
+
+---
+*“Focus on the process, the results will follow.”*
