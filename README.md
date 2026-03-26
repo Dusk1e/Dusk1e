@@ -1,5 +1,9 @@
 # Hi, I'm Dusk1e! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dusk1e/Dusk1e/output/github-contribution-grid-snake-dark.svg" alt="Duskie's Contribution Snake Game" />
+</p>
+
 ### Building & Exploring the Future of Tech
 
 I focus on creating efficient solutions and exploring how modern tools can enhance the development process. I'm passionate about learning new technologies and building projects from the ground up.
