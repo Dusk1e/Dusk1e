@@ -15,10 +15,6 @@ I focus on creating efficient solutions and exploring how modern tools can enhan
 - 🤖 **AI Integration:** Leveraging intelligence for better workflows.
 - 🌐 **Modern Development:** Exploring the next generation of building tools.
 
----
-
-### 📈 GitHub Insights
-![Dusk1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dusk1e&show_icons=true&theme=dark&hide_border=true)
 
 ---
 *“Focus on the process, the results will follow.”*
