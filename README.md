@@ -10,10 +10,10 @@ I focus on creating efficient solutions and exploring how modern tools can enhan
 
 ---
 
-### 🛠️ Core Interests
-- 🐍 **Python & Automation:** Crafting scripts that work.
-- 🤖 **AI Integration:** Leveraging intelligence for better workflows.
-- 🌐 **Modern Development:** Exploring the next generation of building tools.
+###  Core Interests
+-  **Python & Automation:** Crafting scripts that work.
+-  **AI Integration:** Leveraging intelligence for better workflows.
+-  **Modern Development:** Exploring the next generation of building tools.
 
 
 ---
