@@ -1,17 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,20:2563eb,40:06b6d4,60:10b981,80:f59e0b,100:ef4444&text=DUSK&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Process%20Architect&descSize=22&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DUSK&fontSize=60&fontColor=ffffff&animation=twinkling&color=0:00F5FF,20:7C3AED,40:FF00AA,60:FF7A00,80:FFD166,100:00FFA3" />
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+systems+%E2%80%A2+process+design+%E2%80%A2+scalable+architecture;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Solidity+%E2%80%A2+automation;Building+clear+systems+from+complex+problems" />
+<img width="420" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/AI%20Systems-2563EB?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Process%20Architecture-06B6D4?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Scalable%20Workflows-10B981?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Global%20(AI%20Space)-F59E0B?style=for-the-badge&labelColor=111827" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Dusk+%E2%80%A2+AI+%26+Process+Architect;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Automation;Clear+systems+%2F%2F+usable+architecture+%2F%2F+scalable+flows" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI_SYSTEMS-00F5FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PROCESS_ARCHITECTURE-7C3AED?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AUTOMATION-FF00AA?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SCALABLE_WORKFLOWS-FF7A00?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -21,24 +25,37 @@
 
 <table>
 <tr>
-<td width="50%" align="left" valign="top">
+<td width="33%" align="center">
 
-## ⚡ Focus
+## 🧠
+### Focus
 
-- AI systems  
-- Process architecture  
-- Automation workflows  
-- Scalable technical design  
+AI systems  
+workflow design  
+automation  
+usable architecture
 
 </td>
-<td width="50%" align="left" valign="top">
+<td width="33%" align="center">
 
-## 🧩 Stack
+## ⚙️
+### Stack
 
-- Rust  
-- TypeScript  
-- Solidity  
-- AI tooling  
+Rust  
+TypeScript  
+Solidity  
+Python
+
+</td>
+<td width="33%" align="center">
+
+## 🌐
+### Style
+
+clear systems  
+practical execution  
+scalable thinking  
+real-world building
 
 </td>
 </tr>
@@ -50,18 +67,18 @@
 
 <div align="center">
 
-## 🛠️ Toolbox
+## 🛠️ Core Stack
 
 <img src="https://skillicons.dev/icons?i=rust,ts,js,solidity,python,nodejs,docker,git,github,vscode,linux&theme=dark" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Rust-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Solidity-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Rust-F05032?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Solidity-A855F7?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-22C55E?style=flat-square" />
 
 </div>
 
@@ -69,47 +86,27 @@
 
 <div align="center">
 
-## 🌈 Work Areas
-
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AI-22C55E?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-agents, assistants, orchestration
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/ROLE-AI_%26_Process_Architect-00F5FF?style=for-the-badge&labelColor=0d1117" />
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Architecture-3B82F6?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-clear systems, scalable structure
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/LOCATION-Global_(AI_Space)-FFD166?style=for-the-badge&labelColor=0d1117" />
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Engineering-F97316?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-practical implementation and tooling
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/FOCUS-Systems_%26_Automation-FF00AA?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/APPROACH-Clear_%26_Scalable-00FFA3?style=for-the-badge&labelColor=0d1117" />
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 🔗 Connect
-
-<a href="https://github.com/Dusk1e">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/0xdussk">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=600&lines=building+systems+with+clarity%2C+not+noise" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ef4444,20:f59e0b,40:10b981,60:06b6d4,80:2563eb,100:8b5cf6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=FFD166&center=true&vCenter=true&width=750&lines=building+systems+with+clarity+not+noise" />
 
 </div>
