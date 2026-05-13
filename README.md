@@ -1,52 +1,60 @@
-# ⚡ Welcome to the Chaos of Dusk! ⚡
+# <p align="center"> ⚡ D U S K 1 E ⚡ </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=auto&height=300&section=header&text=Dusk1e%20Labs&fontSize=90&animation=fadeIn&fontAlignY=38" />
-</p>
-
-## 🛠 I Build Systems, Not Lies
-Aşağıdaki her şey gerçektir, abartı içermez. Sadece kodun karmaşasını seviyorum.
-
-- 🤖 **Current Focus:** AI & Process Architecture.
-- ⚙️ **Stack:** Rust, TypeScript, Solidity and everything in between.
-- 🌍 **Origin:** Working from Global (AI Space).
-- 🧠 **Philosophy:** If it's not broken, optimize it until it is.
-
----
-
-## 📊 My Digital Footprint (The "Honest" Stats)
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dusk1e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusk1e&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusk1e&theme=radical&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=WELCOME%20TO%20THE%20VOID&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 ---
 
-## 🎨 Tech Spectrum (Color Overload)
+## 🛠 THE ARCHITECT IN THE SHELL
+**Dusk1e** | AI & Process Architect | Duskle Labs 
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+> "Building honest systems in a chaotic world."
 
----
-
-## 🌪 Activity Chaos
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dusk1e&theme=react-dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ---
 
-## 💬 Catch me at...
-<p align="left">
-<a href="https://twitter.com/0xdussk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xdussk" height="30" width="40" /></a>
+## ⚡ TECH STACK OVERLOAD ⚡
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-RUST-black?style=for-the-badge&logo=rust&logoColor=E32F26&color=101010" />
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=007ACC&color=101010" />
+  <img src="https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/-DOCKER-black?style=for-the-badge&logo=docker&logoColor=0db7ed&color=101010" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dusk1e&label=Profile%20Views&color=0e75b6&style=flat" alt="Dusk1e" />
+  <img src="https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=openai&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=linux&logoColor=FCC624&color=101010" />
+  <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git&logoColor=F05033&color=101010" />
+  <img src="https://img.shields.io/badge/-TERMINAL-black?style=for-the-badge&logo=gnumetadatarepository&logoColor=white&color=101010" />
+</p>
+
+---
+
+## 🌪 SYSTEM PULSE
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dusk1e&theme=dracula&area=true&hide_border=true&color=ff79c6" width="100%" />
+</p>
+
+---
+
+## 🌐 NEURAL LINK
+<p align="center">
+<a href="https://twitter.com/0xdussk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Dusk1e&label=SIGHTINGS&color=magenta&style=flat-square" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/render?type=slice&color=8800ff&height=100&section=footer" />
 </p>
