@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DUSK&fontSize=60&fontColor=ffffff&animation=twinkling&color=0:00F5FF,20:7C3AED,40:FF00AA,60:FF7A00,80:FFD166,100:00FFA3" />
-
-<br>
-
-<img width="420" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=190&text=DUSK&fontSize=62&fontColor=ffffff&animation=twinkling&color=0:00F5FF,20:7C3AED,40:FF00AA,60:FF7A00,80:FFD166,100:00FFA3" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Dusk+%E2%80%A2+AI+%26+Process+Architect;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Automation;Clear+systems+%2F%2F+usable+architecture+%2F%2F+scalable+flows" />
+<img width="520" src="./assets/anime.gif" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Dusk+%E2%80%A2+AI+%26+Process+Architect;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Automation;Clear+systems+%2F%2F+usable+architecture+%2F%2F+scalable+flows" />
 
 <br><br>
 
@@ -27,19 +27,17 @@
 <tr>
 <td width="33%" align="center">
 
-## 🧠
-### Focus
+## 🧠 Focus
 
 AI systems  
 workflow design  
 automation  
-usable architecture
+scalable processes
 
 </td>
 <td width="33%" align="center">
 
-## ⚙️
-### Stack
+## ⚙️ Stack
 
 Rust  
 TypeScript  
@@ -49,12 +47,11 @@ Python
 </td>
 <td width="33%" align="center">
 
-## 🌐
-### Style
+## 🌐 Style
 
-clear systems  
+clear architecture  
 practical execution  
-scalable thinking  
+usable systems  
 real-world building
 
 </td>
@@ -78,7 +75,7 @@ real-world building
 <img src="https://img.shields.io/badge/Solidity-A855F7?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-22C55E?style=flat-square" />
 
 </div>
 
@@ -86,27 +83,16 @@ real-world building
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
 <img src="https://img.shields.io/badge/ROLE-AI_%26_Process_Architect-00F5FF?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="50%">
 <img src="https://img.shields.io/badge/LOCATION-Global_(AI_Space)-FFD166?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/FOCUS-Systems_%26_Automation-FF00AA?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/APPROACH-Clear_%26_Scalable-00FFA3?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-</table>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=FFD166&center=true&vCenter=true&width=750&lines=building+systems+with+clarity+not+noise" />
+<a href="https://github.com/Dusk1e">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/0xdussk">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
