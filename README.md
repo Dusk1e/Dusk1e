@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/dusk.svg" alt="DUSK" width="100%" />
+  <img src="dusk.svg" alt="DUSK" width="640">
 </p>
