@@ -1,0 +1,174 @@
+<svg viewBox="0 0 800 420" width="800" height="420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card"><rect width="800" height="420" rx="16"/></clipPath>
+    <radialGradient id="sun" cx="0.42" cy="0.4" r="0.65">
+      <stop offset="0" stop-color="#fff0cf"/>
+      <stop offset="0.45" stop-color="#ffb35e"/>
+      <stop offset="0.8" stop-color="#ff7f3a"/>
+      <stop offset="1" stop-color="#ef5a2e"/>
+    </radialGradient>
+    <radialGradient id="warmglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff8a3d" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#ff6a2d" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ff6a2d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="coronaring" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.40" stop-color="#e9efff" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#e9efff" stop-opacity="0.9"/>
+      <stop offset="0.62" stop-color="#c9d8ff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#c9d8ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ray" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9a4d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff9a4d" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="streamer" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9efff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#e9efff" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#eef4ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#eef4ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.72">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.5"/>
+    </radialGradient>
+    <filter id="b2"><feGaussianBlur stdDeviation="2"/></filter>
+    <filter id="b5"><feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="b9"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- base sky, warm-dark -->
+    <rect width="800" height="420" fill="#0a0812"/>
+    <!-- cold shift at totality -->
+    <rect width="800" height="420" fill="#0b1233" opacity="0.5">
+      <animate attributeName="opacity" values="0;0;0.55;0.55;0;0" keyTimes="0;0.38;0.46;0.54;0.62;1" dur="16s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- stars: bloom at totality, each twinkling -->
+    <g fill="#e6ecfd" opacity="0.9">
+      <animate attributeName="opacity" values="0.12;0.12;1;1;0.12;0.12" keyTimes="0;0.38;0.46;0.54;0.62;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="72" cy="64" r="1.5"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="180" r="1.1"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.1s" begin="-1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="112" cy="330" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.7s" begin="-2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="238" cy="66" r="1.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.5s" begin="-0.6s" repeatCount="indefinite"/></circle>
+      <circle cx="205" cy="255" r="1"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.4s" begin="-3s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="360" r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.3s" begin="-1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="332" cy="120" r="1"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.9s" begin="-0.3s" repeatCount="indefinite"/></circle>
+      <circle cx="472" cy="72" r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.5s" begin="-2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="512" cy="352" r="1.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="-1s" repeatCount="indefinite"/></circle>
+      <circle cx="612" cy="140" r="1"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="-2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="660" cy="300" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="4.4s" begin="-0.9s" repeatCount="indefinite"/></circle>
+      <circle cx="716" cy="80" r="1.5"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.3s" begin="-1.5s" repeatCount="indefinite"/></circle>
+      <circle cx="744" cy="212" r="1"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" begin="-3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="392" r="1.1"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" begin="-2.2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- shooting star, only during totality -->
+    <g opacity="0">
+      <line x1="0" y1="0" x2="84" y2="-30" stroke="url(#trail)" stroke-width="2.2" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="translate" values="640 66;640 66;430 148;430 148" keyTimes="0;0.465;0.53;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.465;0.49;0.53;1" dur="16s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- god rays, fade at totality, slow spin -->
+    <g opacity="0.15">
+      <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.36;0.45;0.55;0.64;1" dur="16s" repeatCount="indefinite"/>
+      <g transform="translate(400 210)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="90s" additive="sum" repeatCount="indefinite"/>
+        <g fill="url(#ray)" opacity="0.5">
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(45)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(90)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(135)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(180)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(225)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(270)"/>
+          <path d="M -7 -245 L 7 -245 L 3 -98 L -3 -98 Z" transform="rotate(315)"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- warm ambient glow, dies at totality -->
+    <circle cx="400" cy="210" r="190" fill="url(#warmglow)" opacity="0.06">
+      <animate attributeName="opacity" values="1;1;0.06;0.06;1;1" keyTimes="0;0.36;0.45;0.55;0.64;1" dur="16s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- corona: streamers + pearly ring, alive only at totality -->
+    <g opacity="0.95">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42;0.465;0.535;0.58;1" dur="16s" repeatCount="indefinite"/>
+      <g transform="translate(400 210)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="70s" additive="sum" repeatCount="indefinite"/>
+        <g fill="url(#streamer)" filter="url(#b9)">
+          <path d="M -16 -235 L 16 -235 L 6 -92 L -6 -92 Z" opacity="0.7"/>
+          <path d="M -22 -205 L 22 -205 L 7 -92 L -7 -92 Z" transform="rotate(70)" opacity="0.85"/>
+          <path d="M -14 -252 L 14 -252 L 5 -92 L -5 -92 Z" transform="rotate(118)" opacity="0.6"/>
+          <path d="M -24 -198 L 24 -198 L 8 -92 L -8 -92 Z" transform="rotate(165)" opacity="0.85"/>
+          <path d="M -15 -238 L 15 -238 L 5 -92 L -5 -92 Z" transform="rotate(215)" opacity="0.65"/>
+          <path d="M -21 -212 L 21 -212 L 7 -92 L -7 -92 Z" transform="rotate(255)" opacity="0.8"/>
+          <path d="M -13 -246 L 13 -246 L 5 -92 L -5 -92 Z" transform="rotate(300)" opacity="0.6"/>
+          <path d="M -19 -218 L 19 -218 L 6 -92 L -6 -92 Z" transform="rotate(338)" opacity="0.8"/>
+        </g>
+      </g>
+      <circle cx="400" cy="210" r="200" fill="url(#coronaring)">
+        <animate attributeName="r" values="196;206;196" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="400" cy="210" r="97" fill="none" stroke="#f2f6ff" stroke-width="3.5" filter="url(#b5)"/>
+    </g>
+
+    <!-- pink prominences peeking past the moon at totality -->
+    <g fill="#ff8fae" filter="url(#b2)" opacity="0.9">
+      <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.44;0.47;0.53;0.56;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="483.1" cy="258" r="5"/>
+      <circle cx="316.9" cy="258" r="4"/>
+      <circle cx="383.3" cy="115.5" r="6"/>
+    </g>
+
+    <!-- the sun -->
+    <circle cx="400" cy="210" r="88" fill="url(#sun)"/>
+
+    <!-- the moon: creeps in, lingers at totality, exits -->
+    <g transform="translate(400 0)" opacity="1">
+      <animateTransform attributeName="transform" type="translate" values="104 0;372 0;396.5 0;403.5 0;428 0;696 0" keyTimes="0;0.36;0.44;0.56;0.64;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="0" cy="210" r="92" fill="#05060e" stroke="#151a2c" stroke-width="0.8"/>
+      <g fill="#0c1020" opacity="0.9">
+        <circle cx="-24" cy="176" r="13"/>
+        <circle cx="28" cy="232" r="18"/>
+        <circle cx="-12" cy="252" r="9"/>
+        <circle cx="34" cy="168" r="8"/>
+      </g>
+    </g>
+
+    <!-- diamond ring flash: entering totality (right rim) -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.415;0.44;0.465;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="487" cy="212" r="11" fill="#ffffff" filter="url(#b5)"/>
+      <circle cx="487" cy="212" r="4" fill="#ffffff"/>
+      <g stroke="#ffffff" stroke-width="2" stroke-linecap="round" filter="url(#b2)">
+        <line x1="452" y1="212" x2="522" y2="212"/>
+        <line x1="487" y1="180" x2="487" y2="244"/>
+        <line x1="466" y1="191" x2="508" y2="233"/>
+        <line x1="508" y1="191" x2="466" y2="233"/>
+      </g>
+    </g>
+    <!-- diamond ring flash: exiting totality (left rim) -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.535;0.56;0.585;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="313" cy="208" r="11" fill="#ffffff" filter="url(#b5)"/>
+      <circle cx="313" cy="208" r="4" fill="#ffffff"/>
+      <g stroke="#ffffff" stroke-width="2" stroke-linecap="round" filter="url(#b2)">
+        <line x1="278" y1="208" x2="348" y2="208"/>
+        <line x1="313" y1="176" x2="313" y2="240"/>
+        <line x1="292" y1="187" x2="334" y2="229"/>
+        <line x1="334" y1="187" x2="292" y2="229"/>
+      </g>
+    </g>
+
+    <!-- vignette + border -->
+    <rect width="800" height="420" fill="url(#vig)"/>
+    <rect x="0.5" y="0.5" width="799" height="419" rx="15.5" fill="none" stroke="#1c2333"/>
+  </g>
+</svg>
